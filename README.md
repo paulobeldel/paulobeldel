@@ -1,4 +1,9 @@
-## Hi there 👋
+# :brazil:👩‍💻 Olá, mundo! Eu sou Paulo Beldel Filho 👋
+## :us:👩‍💻 Hello world! I'm Paulo Beldel Filho 👋 
+
+:brazil: Sou especialista na área de **investimentos e finanças** e, ao longo da minha carreira, frequentemente me deparei com desafios relacionados à extração e análise de dados para otimizar processos e melhorar decisões. Como não costumo recuar diante de um bom desafio, comecei a estudar **Python** — e foi aí que descobri minha paixão por tecnologia. Hoje, estou em **transição de carreira para a área de TI**, unindo minha bagagem em finanças com o poder da programação. 🚀
+Sou apaixonada por tecnologia e atualmente em transição de carreira para a área de **TI**. Meu objetivo é transformar curiosidade em código, desafios em aprendizado e ideias em soluções. 🚀
+
 
 <!--
 **paulobeldel/paulobeldel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
