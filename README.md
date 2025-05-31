@@ -1,10 +1,4 @@
-# 👩‍💻 Olá, mundo! Eu sou Paulo Beldel Filho 👋
-## 👩‍💻 Hello world! I'm Paulo Beldel Filho 👋 
-
-Sou especialista na área de **investimentos e finanças** e, ao longo da minha carreira, me deparei com desafios relacionados à extração e análise de dados.  
-Como não costumo recuar diante de um bom desafio, comecei a estudar **Python** — e foi aí que descobri minha paixão por tecnologia.   
-Hoje, estou em **transição de carreira para a área de TI**, unindo minha bagagem em finanças com o poder da programação.  
-Meu objetivo é transformar desafios em aprendizado e ideias em soluções. 🚀
+# 👩‍💻 Hello world! I'm Paulo Beldel Filho 👋 
 
 I’m a specialist in investments and finance, and throughout my career, I faced challenges related to data extraction and analysis.   
 Since I don’t usually shy away from a good challenge, I started learning Python — and that’s when I discovered my passion for technology.
