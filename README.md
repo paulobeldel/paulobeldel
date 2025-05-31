@@ -5,6 +5,8 @@
 <p style="text-align: justify;"> Today, I’m transitioning into the tech field, combining my background in finance with the power of programming. </p>  
 <p style="text-align: justify;"> My goal is to turn challenges into learning opportunities and ideas into solutions. 🚀 </p>
 
+[README.pt.md](https://github.com/paulobeldel/paulobeldel.pt)
+
 
 <!--
 **paulobeldel/paulobeldel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
