@@ -1,4 +1,4 @@
- <p style="text-align: justify;"> 👨🏻‍💻 Hello world! I'm Paulo Beldel Filho 👋🏻 </p> 
+# <p style="text-align: justify;"> 👨🏻‍💻 Hello world! I'm Paulo Beldel Filho 👋🏻 </p> 
 
 <p style="text-align: justify;"> I’m a specialist in <b> investments and finance </b>, and throughout my career, I faced challenges related to data extraction and analysis. </p>    
 <p style="text-align: justify;"> Since I don’t usually shy away from a good challenge, I started learning <b> Python </b> — and that’s when I discovered my passion for technology. </p>
