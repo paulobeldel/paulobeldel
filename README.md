@@ -1,9 +1,9 @@
-# 👩‍💻 Hello world! I'm Paulo Beldel Filho 👋 
+ <p style="text-align: justify;"> 👨🏻‍💻 Hello world! I'm Paulo Beldel Filho 👋🏻 </p> 
 
-I’m a specialist in investments and finance, and throughout my career, I faced challenges related to data extraction and analysis.   
-Since I don’t usually shy away from a good challenge, I started learning Python — and that’s when I discovered my passion for technology.
-Today, I’m transitioning into the tech field, combining my background in finance with the power of programming.  
-My goal is to turn challenges into learning opportunities and ideas into solutions. 🚀
+<p style="text-align: justify;"> I’m a specialist in <b> investments and finance </b>, and throughout my career, I faced challenges related to data extraction and analysis. </p>    
+<p style="text-align: justify;"> Since I don’t usually shy away from a good challenge, I started learning <b> Python </b> — and that’s when I discovered my passion for technology. </p>
+<p style="text-align: justify;"> Today, I’m transitioning into the tech field, combining my background in finance with the power of programming. </p>  
+<p style="text-align: justify;"> My goal is to turn challenges into learning opportunities and ideas into solutions. 🚀 </p>
 
 
 <!--
