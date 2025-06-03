@@ -9,7 +9,7 @@
 
 ##
 
-[pythonlogo](https://readme-components.vercel.app/api?component=logo&logo=python)
+[(https://readme-components.vercel.app/api?component=logo&logo=python)](https://readme-components.vercel.app/api?component=logo&logo=python)
           
 
 
