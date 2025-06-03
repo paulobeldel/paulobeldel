@@ -7,6 +7,11 @@
 
 [README.pt.md](https://github.com/paulobeldel/paulobeldel.pt)
 
+##
+
+[pythonlogo](https://readme-components.vercel.app/api?component=logo&logo=python)
+          
+
 
 <!--
 **paulobeldel/paulobeldel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
