@@ -9,7 +9,7 @@
 
 ##
 
-<img src="https://readme-components.vercel.app/api?component=logo&logo=python" />
+<img align="center" src="https://readme-components.vercel.app/api?component=logo&logo=python" />
           
 
 
