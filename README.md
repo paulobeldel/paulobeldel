@@ -8,7 +8,7 @@
 
 [README.pt.md](https://github.com/paulobeldel/paulobeldel.pt)
 
-[octocat-1749302723952](https://github.com/user-attachments/assets/f1178bd1-43e5-4e46-ab38-7a59d0e926c1)
+<img [octocat-1749302723952](https://github.com/user-attachments/assets/f1178bd1-43e5-4e46-ab38-7a59d0e926c1) />
 
 
 
