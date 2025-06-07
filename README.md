@@ -8,12 +8,11 @@
 
 [README.pt.md](https://github.com/paulobeldel/paulobeldel.pt)
 
-<img [octocat-1749302723952](https://github.com/user-attachments/assets/f1178bd1-43e5-4e46-ab38-7a59d0e926c1) />
-
-
+<div align="center">
+          <img src="https://github.com/user-attachments/assets/d778a173-86cd-49b5-a043-0f244680609c" width="400pc" />
+</div>
 
 ##
-
 <img align="center" src="https://readme-components.vercel.app/api?component=logo&logo=python" />
           
 
